@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"T",
+				"Tesseract_ocr"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"6px",
+				"6px"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"pro",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "composer.json",
+			"settings":
+			{
+				"buffer_size": 2257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Leng/Bundle/OcrApiBundle/Controller/DefaultController.php",
+			"settings":
+			{
+				"buffer_size": 567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Leng/Bundle/OcrApiBundle/Resources/config/routing.yml",
+			"settings":
+			{
+				"buffer_size": 211,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Leng/Bundle/OcrApiBundle/Controller/ApiController.php",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		}
+	],
+	"build_system": "Packages/User/nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/xampp/htdocs/ocr/2.3.1/app/autoload.php",
+		"/D/xampp/htdocs/ocr/2.3.1/composer.json",
+		"/D/Work/ripple/public/javascripts/chat.js",
+		"/D/Work/Ripple/public/javascripts/map.js",
+		"/D/Work/ripple/models/roomModel.js",
+		"/D/Work/ripple/config/routes.js",
+		"/D/Work/Ripple/views/map/index.jade",
+		"/C/Users/Patrick/Desktop/stuff.java",
+		"/C/Users/Patrick/Desktop/hi.java",
+		"/D/Work/ripple/routes/roomRoute.js",
+		"/D/Work/ripple/routes/mainRoute.js",
+		"/D/Work/ripple/routes/msgRoute.js",
+		"/C/Users/Patrick/Desktop/test.js",
+		"/D/Work/Ripple/public/javascripts/chathelper.js",
+		"/D/Work/ripple/views/includes/foot.jade",
+		"/D/Work/ripple/public/javascripts/userlist.js",
+		"/D/Work/ripple/views/room/index.jade",
+		"/D/Work/Ripple/routes/mapRoute.js",
+		"/D/Work/ripple/public/stylesheets/style.css",
+		"/D/Work/ripple/views/layouts/default.jade",
+		"/D/Work/ripple/views/includes/header.jade",
+		"/D/Work/ripple/package.json",
+		"/D/Work/ripple/public/stylesheets/style.styl",
+		"/D/Work/ripple/views/includes/head.jade",
+		"/D/Work/ripple/public/jquery/jquery.js",
+		"/D/Work/ripple/public/bootstrap/js/bootstrap.js",
+		"/D/Work/ripple/models/userModel.js",
+		"/D/Work/ripple/models/msgModel.js",
+		"/D/Work/ripple/views/index.jade",
+		"/D/Work/ripple/routes/userRoute.js",
+		"/D/Work/ripple/app.js",
+		"/C/Users/Patrick/Desktop/piechart fix",
+		"/C/Users/Patrick/Desktop/ThreadPoolTaskExecutor nots.txt",
+		"/D/Work/ripple/node_modules/socket.io/package.json",
+		"/D/Work/ripple/config/auth.js",
+		"/D/Work/ripple/views/user/view.jade",
+		"/D/Work/ripple/public/javascripts/jquery.js",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/Work/nodejs/node js notes.txt",
+		"/D/Work/ripple/models/db.js",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Patrick/Desktop/rangequery.js",
+		"/D/Work/ripple/controllers/homeController.js",
+		"/D/Work/ripple/controllers/room.js",
+		"/D/Work/ripple/models/chatModel.js",
+		"/D/Work/ripple/models/user.js",
+		"/D/Work/ripple/views/layouts/mobile.jade",
+		"/D/Work/ripple/routes/index.js",
+		"/D/Work/chatty/blog/index.js",
+		"/C/Users/Patrick/Desktop/mongoqueryplan.java",
+		"/C/Users/Patrick/Desktop/mongojscode.txt",
+		"/C/Users/Patrick/Desktop/mongoquery.js",
+		"/D/Work/chatty/expressdemo/app.js",
+		"/D/Work/chatty/expressdemo/views/index.jade",
+		"/D/Work/chatty/expressdemo/articleprovider.js",
+		"/D/Work/chatty/expressdemo/views/layout.jade",
+		"/D/Work/Jmeter/apache-jmeter-2.9/bin/test.xml",
+		"/C/Users/Patrick/pass/Einsights_QA.pem",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Work/chatty/hello.js",
+		"/D/Work/chatty/sample.js",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 2/Packages/User/nodejs.sublime-build"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"style",
+			"collapse",
+			"data-toggle",
+			"log",
+			"create",
+			"ctrl+b",
+			"getTopDateBound",
+			"createTopDate",
+			"ctrl+b",
+			"ctrl+n",
+			"break"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/Leng/Bundle/OcrApiBundle/Controller/DefaultController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/Leng/Bundle/OcrApiBundle/Resources/config/routing.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/Leng/Bundle/OcrApiBundle/Controller/ApiController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 157.0
+	},
+	"project": "ocr.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,4 @@
+leng_ocr_api:
+    resource: "@LengOcrApiBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,6 @@
+leng_ocr_api_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: LengOcrApiBundle:Default:index }
+leng_ocr_api_get:
+    pattern:  /get
+    defaults: {_controller: LengOcrApiBundle:Default:result }
